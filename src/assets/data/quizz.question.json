@@ -1,0 +1,67 @@
+{
+  "title":"Qual a sua Casa de Hogwarts?",
+  "imagem":"https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2018/06/legiao_p1IH5laTf9oRbhjWC4KG30BMQtc6YLw7JUEk8vigd2.png.webp",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual desses você escolheria?",
+      "imagem": "https://rollingstone.uol.com.br/media/_versions/harry_potter_reprod_widelg.jpg",
+      "options":[
+        {"id": 1, "name":"Construir", "alias":"A"},
+        {"id": 2, "name":"Impactar", "alias":"B"},
+        {"id": 3, "name":"Conhecer", "alias":"C"},
+        {"id": 4, "name":"Pertencer", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que te motiva?",
+      "imagem": "https://rollingstone.uol.com.br/media/uploads/harry-potter-cena-hogwarts-wingardium-leviosa-foto-reproducao-warner.jpg",
+      "options":[
+        {"id": 1, "name":"Expressar minhas próprias verdades", "alias":"A"},
+        {"id": 2, "name":"Vontade de construir algo que faça sentido para mim", "alias":"B"},
+        {"id": 3, "name":"Busca de expandir a mente", "alias":"C"},
+        {"id": 4, "name":"Vontade de ajudar os outros", "alias":"D"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Você se considera uma pessoa observadora? Se sim, no que você foca?",
+      "imagem": "https://4.bp.blogspot.com/-AyN2dLJDjws/VDSGGNokz5I/AAAAAAAAHzI/nvJ6v28tLss/s1600/1.png",
+      "options":[
+        {"id": 1, "name":"Não muito, porque não faz parte da minha personalidade e/ou jeito de ser.", "alias":"A"},
+        {"id": 2, "name":"Não, porque eu tenho que focar mais em mim e no que me importa", "alias":"B"},
+        {"id": 3, "name":"Sim, focando mais nos acontecimentos e ideias ao meu redor.", "alias":"C"},
+        {"id": 4, "name":"Sim, focando mais nas pessoas ao meu redor, e como elas são.", "alias":"D"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual desses é o seu maior defeito?",
+      "imagem": "https://uploads.maisbrasilia.com/2021/09/4c3114b9-capa-blog-hp-800x445-1-960x640.png",
+      "options":[
+        {"id": 1, "name":"Pensar nos outros antes de pensar em mim", "alias":"A"},
+        {"id": 2, "name":"Achar que tenho sempre razão", "alias":"B"},
+        {"id": 3, "name":"Ser muito indeciso/a", "alias":"C"},
+        {"id": 4, "name":"Achar que sou a vítima das situações", "alias":"D"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "O que vem antes pra você?",
+      "imagem": "https://recreio.uol.com.br/media/_versions/legacy/2021/09/02/harry-potter-e-a-pedra-filosofal-para-comemorar-20-anos-cenas-deletadas-sao-mostradas-ao-publico-1231530_widexl.jpg",
+      "options":[
+        {"id": 1, "name":"O que eu acredito e tenho como verdade", "alias":"A"},
+        {"id": 2, "name":"O que importa pra mim", "alias":"B"},
+        {"id": 3, "name":"O que é novo e pode se tornar um aprendizado", "alias":"C"},
+        {"id": 4, "name":"O que é justo", "alias":"D"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é da Grifinória!",
+    "B": "Você é da Sonserina!",
+    "C": "Você é da Corvinal!",
+    "D": "Você é da Lufa-Lufa!"
+  }
+}
